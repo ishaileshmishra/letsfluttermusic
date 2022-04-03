@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "name": "Waka waka",
+      "singer": "Sale el Sol",
+      "image": "image.png",
+      "fav": false
+    },
+    {
+      "name": "Whenever Whenever",
+      "singer": "Launderey Service",
+      "image": "image.png",
+      "fav": false
+    },
+    {
+      "name": "Loca",
+      "singer": "Sale el Sol",
+      "image": "image.png",
+      "fav": true
+    },
+    {
+      "name": "Hips Don'r Lie",
+      "singer": "Oral Fixation Vol.2",
+      "image": "image.png",
+      "fav": false
+    },
+    {
+      "name": "Try Everything",
+      "singer": "Zootopia",
+      "image": "shakira.png",
+      "fav": false
+    },
+    {
+      "name": "Girl Like Me",
+      "singer": "Translation",
+      "image": "image.png",
+      "fav": false
+    },
+    {
+      "name": "She Wolf",
+      "singer": "She Wolf",
+      "image": "image.png",
+      "fav": false
+    },
+    {
+      "name": "Loca",
+      "singer": "Sale el Sol",
+      "image": "image.png",
+      "fav": true
+    },
+    {
+      "name": "Hips Don'r Lie",
+      "singer": "Oral Fixation Vol.2",
+      "image": "image.png",
+      "fav": false
+    },
+    {
+      "name": "Try Everything",
+      "singer": "Zootopia",
+      "image": "image.png",
+      "fav": false
+    },
+    {
+      "name": "Girl Like Me",
+      "singer": "Translation",
+      "image": "image.png",
+      "fav": false
+    },
+    {
+      "name": "She Wolf",
+      "singer": "She Wolf",
+      "image": "image.png",
+      "fav": false
+    }
+  ]
+}
