@@ -16,7 +16,7 @@ Step 2: Run below command to start app
 
 [![IMAGE ALT TEXT](assets/screenshots/three.png, width=30, height=30)](https://www.youtube.com/watch?v=KCEzr4AERME "Music Flutter UI")
 
-<img src="assets/screenshots/one.png" width=230, height=460> <img src="assets/screenshots/two.png" width=230, height=460> <img src="assets/screenshots/three.png" width=230, height=460>
+<img src="assets/screenshots/one.png" width=250, height=500> <img src="assets/screenshots/two.png" width=250, height=500> <img src="assets/screenshots/three.png" width=250, height=500>
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
