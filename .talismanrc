@@ -1,51 +1,25 @@
 threshold: medium
 
 fileignoreconfig:
-  - filename: ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
-    checksum: 45ca7dd82fe96c7b1df162e804ff9283659703d1ee6ada8a74220e3fb41bab11
-  - filename: .metadata
-    checksum: a1c0aaeafc9ecf04aa4b666c7a7fc3742b84ef8121cea8d08bcce9d4050ac6c5
-  - filename: macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
-    checksum: 34378d8415e379662b14ee23f922580747c0add237dc30fdebc5dfd10dd49569
-  - filename: .dccache
-    checksum: 4dff5206fa0cbcb756181521e42c326cac2597ea931c01fbb5835bf4a32028e0
-  - filename: ios/Runner.xcodeproj/project.pbxproj
-    checksum: 5335dd95ce2467234f102968dc5368026d0db6700b9dd8ce1329b834f823dfec
-  - filename: macos/Runner.xcodeproj/project.pbxproj
-    checksum: dcce87535356fb12e27ce7ca3a21f343cf4245897b4ac25f6f04894bf0f56182
-  - filename: ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
-    checksum: ab212a6f224053497d7c8d6aa9dd73365764cb8faf05d4f9902cdbf6db1db376
-  - filename: macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
-    checksum: 4425f9f113268775a7d5bd9d685929b91a059c97f08f8f46ab054a01358f9108
-  - filename: ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
-    checksum: 520dd325befe670a46c261787535e350c026c4e50abf6e78a6662cc9790c407c
-  - filename: ios/Runner/Base.lproj/Main.storyboard
-    checksum: 16377557a3a13e4a7e16d0507d5a091bad2ce8be87f08d15d33c5588766136c1
-  - filename: ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
-    checksum: dba788e491368545bcaffdec1cc124d670e0d51c58f6c08edb64e81462a99c1d
   - filename: ios/Flutter/AppFrameworkInfo.plist
     checksum: 7becb88a04e9b9fa2b6c6be7527df9f0a6b83be0139b52b2b4e4149f31e5ec43
-  - filename: ios/Runner/Info.plist
-    checksum: 5bee30330be23b5739f3d72e9bd97f9655a4ae20dfd48f8781fe11a28e0e0895
-  - filename: lib/main.dart
-    checksum: df54d82f804c44602df8b940ddd874b603b2385f37f46cb9398d6da2eebd4d50
-  - filename: macos/Runner/Release.entitlements
-    checksum: 0b88736110bc2ebcbd934b02452616b0c05af5c9cf52301626b2ee6126da1cd7
+  - filename: ios/Runner.xcodeproj/project.pbxproj
+    checksum: 5335dd95ce2467234f102968dc5368026d0db6700b9dd8ce1329b834f823dfec
   - filename: ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
     checksum: 6a3ce3970fd4b8730ee2bce79b82a14e99d0c53614de1c44ffb16f297584e1b9
-  - filename: lib/src/screens/login/login_view.dart
-    checksum: 82153f06a965a542ee0f0998257578cc3a5ee1fbb9168ca628c59470f3b52006
-  - filename: lib/src/screens/home/home_view.dart
-    checksum: c705dafbf6a08452ecae1f4e0e50ac819653c70460948b6e794d86579de5baf4
-  - filename: lib/src/screens/details/details_view.dart
-    checksum: b5171c9ae2d7e5101151e4592f8abd8459b6dec65740b9cafd8dbf154be735c4
+  - filename: ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+    checksum: ab212a6f224053497d7c8d6aa9dd73365764cb8faf05d4f9902cdbf6db1db376
+  - filename: ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+    checksum: 45ca7dd82fe96c7b1df162e804ff9283659703d1ee6ada8a74220e3fb41bab11
+  - filename: ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+    checksum: 520dd325befe670a46c261787535e350c026c4e50abf6e78a6662cc9790c407c
+  - filename: ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+    checksum: dba788e491368545bcaffdec1cc124d670e0d51c58f6c08edb64e81462a99c1d
   - filename: ios/Runner/Base.lproj/LaunchScreen.storyboard
     checksum: 1c7dd32f44e039280b443fdb0a67cb10806709a1995934018733cd8441273b3a
-  - filename: macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
-    checksum: 5f76c201fe320fc40d9deb00dd9218c8f8fb6919bd62ce75282165b5f49d72ee
-  - filename: macos/Runner/DebugProfile.entitlements
-    checksum: 93edade8d28fef5232a8b5398fa4b8fc3d880f54df893c8414354a4e68c96267
-  - filename: macos/Runner/Info.plist
-    checksum: 486e6317fd1a9a0922bf9fa7e2d94704d5f0c0976743acd8eb9f5338843e59c3
-  - filename: macos/Runner/Base.lproj/MainMenu.xib
-    checksum: f039742889ffe46008ad57496f41e3fd8acceed864bbb69af4e9e6bab5e7b296
+  - filename: ios/Runner/Base.lproj/Main.storyboard
+    checksum: 16377557a3a13e4a7e16d0507d5a091bad2ce8be87f08d15d33c5588766136c1
+  - filename: ios/Runner/Info.plist
+    checksum: 5bee30330be23b5739f3d72e9bd97f9655a4ae20dfd48f8781fe11a28e0e0895
+  - filename: .dccache
+    checksum: 324e2c317c586cfb929e386f0ef33f0faab9f40e731fcc1ca6a40d48e874dad2
