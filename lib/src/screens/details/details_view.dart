@@ -1,3 +1,4 @@
+import 'package:demo_app/src/constant.dart';
 import 'package:demo_app/src/models/product_items.dart';
 import 'package:demo_app/src/screens/components/_widgets.dart';
 import 'package:flutter/material.dart';
@@ -23,7 +24,7 @@ class _DetailPageState extends State<DetailPage> {
         children: [
           const SizedBox(height: 20),
           Lottie.asset(
-            'assets/json/bounce.json',
+            animBounce,
           ),
           const SizedBox(height: 20),
           Container(
@@ -75,7 +76,7 @@ class _DetailPageState extends State<DetailPage> {
                           const SizedBox(width: 22),
                           Container(
                             child: Lottie.asset(
-                              'assets/json/equaliser.json',
+                              animEqualiser,
                               height: 80,
                               width: 80,
                             ),

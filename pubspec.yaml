@@ -26,7 +26,7 @@ flutter:
   assets:
     - items.json
     - assets/images/dancer_icon.png
-    - assets/anims/music_anim.json
+    - assets/anims/music.json
     - assets/anims/equaliser.json
     - assets/anims/dog.json
     - assets/anims/loader.json

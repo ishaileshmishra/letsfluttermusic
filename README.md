@@ -1,12 +1,22 @@
-# demo_app
+# Music UI Flutter Apps
 
-A new Flutter project.
+A new Music Flutter Application Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Step 1: Recreate iOS, android & windows folders by running below command
 
-A few resources to get you started if this is your first Flutter project:
+    flutter create .
+
+Step 2: Run below command to start app
+
+    flutter run
+
+### Screenshots
+
+[![IMAGE ALT TEXT](assets/screenshots/three.png, width=30, height=30)](https://www.youtube.com/watch?v=KCEzr4AERME "Music Flutter UI")
+
+<img src="assets/screenshots/one.png" width=230, height=460> <img src="assets/screenshots/two.png" width=230, height=460> <img src="assets/screenshots/three.png" width=230, height=460>
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)

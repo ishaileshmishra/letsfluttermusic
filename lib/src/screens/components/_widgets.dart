@@ -1,3 +1,5 @@
+import 'package:demo_app/src/constant.dart';
+
 import '../details/details_view.dart';
 import '../home/home_view.dart';
 import 'package:flutter/material.dart';
@@ -13,7 +15,7 @@ Widget buildItem(Items item) {
         radius: 25,
         backgroundColor: Colors.blueGrey,
         child: Image.asset(
-          'assets/images/listner.png',
+          imgDog,
           width: 30,
           height: 30,
         ),
@@ -91,7 +93,7 @@ Widget bannerPlayer(BuildContext context) {
     children: [
       Container(
         child: Lottie.asset(
-          'assets/json/dog.json',
+          animDog,
         ),
       ),
       Positioned(
@@ -124,7 +126,7 @@ Padding musicBar(BuildContext context) {
         },
         child: Container(
           child: Lottie.asset(
-            'assets/json/loader.json',
+            animLoader,
           ),
         ),
       ),
@@ -220,6 +222,6 @@ SizedBox playingMusicBackground() {
   return SizedBox(
     height: double.infinity,
     width: double.infinity,
-    child: Lottie.asset('assets/json/music_anim.json'),
+    child: Lottie.asset(animMusic),
   );
 }
